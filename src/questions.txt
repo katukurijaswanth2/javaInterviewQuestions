@@ -1,0 +1,218 @@
+🔹 String Coding (EXTREMELY IMPORTANT)
+
+You must be perfect here.
+
+Reverse a String without using StringBuilder
+
+Check if a String is a Palindrome
+
+Count vowels & consonants in a String
+
+Find first non-repeating character
+
+Find duplicate characters in a String
+
+Count frequency of each character
+
+Remove duplicate characters
+
+Check if two strings are anagrams
+
+Reverse words in a sentence
+👉 "I love Java" → "Java love I"
+
+Find longest word in a sentence
+
+2️⃣ ARRAY CODING (EVERY COMPANY)
+
+Find largest & smallest number in an array
+
+Reverse an array
+
+Find second largest number
+
+Remove duplicates from array
+
+Find missing number in array (1 to N)
+
+Check if array is sorted
+
+Move zeros to end
+
+Find intersection of two arrays
+
+Count frequency of elements
+
+Find pair with given sum
+
+3️⃣ NUMBER-BASED PROGRAMS
+
+Check Prime number
+
+Print Prime numbers between 1–100
+
+Fibonacci series (with & without recursion)
+
+Factorial (iterative & recursive)
+
+Reverse a number
+
+Check Palindrome number
+
+Armstrong number
+
+Sum of digits
+
+Count digits in number
+
+GCD / LCM of two numbers
+
+4️⃣ COLLECTIONS CODING (VERY IMPORTANT FOR BACKEND)
+🔹 List / Set / Map
+
+Remove duplicates from List
+
+Sort List using:
+
+Comparable
+
+Comparator
+
+Find frequency of elements using HashMap
+
+Find key with maximum value in Map
+
+Convert List to Set
+
+Iterate Map using:
+
+entrySet()
+
+keySet()
+
+Sort Map by value
+
+Find duplicate elements using Set
+
+Count word occurrences in a sentence
+
+Difference between HashMap & ConcurrentHashMap (code example)
+
+5️⃣ JAVA 8 CODING (VERY HOT 🔥 in 2025)
+🔹 Streams & Lambda
+
+Find even numbers using Streams
+
+Find odd numbers using Streams
+
+Sort a list using Streams
+
+Find maximum & minimum using Streams
+
+Count elements > 10 using Streams
+
+Remove duplicates using Streams
+
+Convert List of Strings to uppercase
+
+Find first non-repeating character using Streams
+
+Group elements using Collectors.groupingBy()
+
+Find second highest number using Streams
+
+6️⃣ OOPS-BASED CODING QUESTIONS
+
+Implement Inheritance with example
+
+Method Overriding example
+
+Runtime Polymorphism program
+
+Abstract class vs Interface (code)
+
+Multiple inheritance using Interface
+
+Encapsulation example (private variables + getters/setters)
+
+Immutable class implementation
+
+Singleton class (Thread-safe)
+
+Constructor chaining
+
+this vs super (code)
+
+7️⃣ EXCEPTION HANDLING CODING
+
+Custom Exception program
+
+Difference between throw and throws (code)
+
+Checked vs Unchecked exception
+
+Try-Catch-Finally example
+
+Multiple catch blocks
+
+Exception propagation example
+
+8️⃣ MULTI-THREADING (IMPORTANT FOR BACKEND)
+
+Create thread using:
+
+Thread
+
+Runnable
+
+Synchronization example
+
+Deadlock example
+
+volatile keyword example
+
+Producer-Consumer problem
+
+Difference between sleep() and wait()
+
+Thread-safe Singleton
+
+9️⃣ FILE HANDLING / IO CODING
+
+Read data from file
+
+Write data into file
+
+Count number of words in file
+
+Copy content from one file to another
+
+Difference between FileReader & BufferedReader
+
+🔟 SQL + BACKEND LOGIC CODING (VERY COMMON)
+
+They may ask Java + SQL logic:
+
+Write Java code to fetch data from DB using JDBC
+
+Insert record using PreparedStatement
+
+Explain SQL query logic in Java code
+
+Pagination logic
+
+Validate duplicate records before insert
+
+1️⃣1️⃣ SPRING / BACKEND-STYLE CODING
+
+(Not heavy coding, but logic-based)
+
+Service → Repository → Controller flow
+
+DTO vs Entity mapping
+
+Exception handling using @ControllerAdvice
+
+Validation using @NotNull, @Size
+
+REST API CRUD flow logic
